@@ -1,2 +1,2 @@
-# onokumus.github.io
+# One page html
 kişisel site
